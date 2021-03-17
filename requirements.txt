@@ -1,0 +1,7 @@
+fastcache==1.1.0
+jupyter==1.0.0
+jupyterlab==2.2.8
+olefile==0.46
+pip-chill==1.0.0
+
+
